@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@anvansch"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/m/anvansch/MyFirstComponent",
+  "domain": "MyFirstComponent",
+  "iot_class": "cloud_polling",
+  "name": "My First Component",
+  "requirements": [],
+  "version": "1.0.0"
+}
