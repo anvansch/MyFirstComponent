@@ -6,6 +6,6 @@
   "domain": "MyFirstComponent",
   "iot_class": "cloud_polling",
   "name": "My First Component",
-  "requirements": [],
+  "requirements": ["gidgethub[aiohttp]==4.1.1"],
   "version": "1.0.0"
 }
